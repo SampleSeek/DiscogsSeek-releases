@@ -11,7 +11,7 @@
 
 ## Interface
 
-![Screenshot from 2024-08-22 12-34-55](https://github.com/user-attachments/assets/c28108d4-222d-4b91-80e3-13758dd9ca2b)
+![360413509-c28108d4-222d-4b91-80e3-13758dd9ca2b](https://github.com/user-attachments/assets/9b7a14db-7fbf-49c1-aae7-9b4d761de04b)
 
 ## Installation
 
