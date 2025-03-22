@@ -6,6 +6,7 @@
 
 - **Discogs Integration:** Search Discogs releases by genre, year, and various filters.
 - **YouTube Video Discovery:** Automatically fetch and associate YouTube videos with each track in a Discogs release.
+- **Discogs Lists Support:** Import and process your Discogs lists directly.
 - **Interactive Player:** Seamlessly browse through videos and track metadata within the app, just like using an MP3 player.
 - **Built-in Database:** Your searches are saved forever.
 
